@@ -1,5 +1,5 @@
 # Best Neighborhood in Pittsburgh
-Team Friendship 
+Team name: Friendship 
 ## Members
 Dominic Campese - djc114@pitt.edu | Will Crew - wtc9@pitt.edu | Praj Perez - prp52@pitt.edu
 ## Description and links to the datasets used
